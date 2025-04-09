@@ -1,0 +1,14 @@
+.btn1, .btn2{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px, solid, rgb(70, 70, 70);
+}
+
+.btn1{
+    background-color: yellow;
+}
+
+.btn2{
+    background-color: black;
+    color: white;
+}
